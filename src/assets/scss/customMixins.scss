@@ -1,0 +1,29 @@
+@mixin box-shadow {
+  box-shadow: 0 0px 10px 0px silver;
+}
+
+// Bootstrap 響應式寬度  這個檔案都是自己定義的
+
+@mixin BS-xl {
+  @media (max-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin BS-lg {
+  @media (max-width: 992px) {
+    @content;
+  }
+}
+
+@mixin BS-md {
+  @media (max-width: 768px) {
+    @content;
+  }
+};
+
+@mixin BS-sm {
+  @media (max-width: 576px) {
+    @content;
+  }
+}

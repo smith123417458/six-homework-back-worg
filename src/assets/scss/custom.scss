@@ -1,0 +1,67 @@
+
+* {  //這個檔案都是自己定義的
+  // font-family: Microsoft JhengHei;
+  // 取消預設底線
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+
+// 標題字體
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6,
+// .h5 span {
+//   // font-family: 'Cormorant Garamond', serif;
+// }
+
+
+.bg-custom  {
+  background: #1c1c1c;
+}
+
+.card-shadow {
+  box-shadow: 1px 3px 10px 0px silver;
+}
+
+.hvr-underline-from-center:before {
+  background: gray;
+}
+
+
+// 社群連結的樣式
+.follow-btn a {
+  color: #000;
+}
+
+
+.footer-btn a:hover {
+  color: white;
+}
+.footer-btn .facebook{
+  color: #00aced;
+}
+
+
+.footer-btn .twitter {
+  color:brown;
+}
+
+.footer-btn .instagram {
+  color: orange;
+}
+
+
+
+.footer-btn .youTube {
+  color: #FF0000;
+}
+
+
+.footer-btn .github {
+ color: cornflowerblue;
+}

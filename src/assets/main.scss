@@ -1,0 +1,9 @@
+// Bootstrap 必要
+@import 'bootstrap/scss/_functions.scss';
+@import './scss/variables';
+@import 'bootstrap/scss/bootstrap.scss';
+
+// 載入 fontawesome pro
+@import './helpers/fontawesome.min.css';
+// 自定義
+@import './scss/custom.scss';

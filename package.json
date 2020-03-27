@@ -1,0 +1,43 @@
+{
+  "name": "test0228",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "core-js": "^3.6.4",
+    "gasp": "0.0.2",
+    "gsap": "^3.2.4",
+    "hamburgers": "^1.1.3",
+    "hover.css": "^2.3.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1",
+    "sweetalert2": "^9.8.2",
+    "swiper": "^5.3.1",
+    "vee-validate": "^3.2.5",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-axios": "^2.1.5",
+    "vue-i18n": "^8.15.4",
+    "vue-loading-overlay": "^3.3.0",
+    "vue-parallaxy": "^1.1.1",
+    "vue-router": "^3.1.5",
+    "vue-scroll-reveal": "^1.0.11",
+    "vue-sweetalert2": "^3.0.3",
+    "vue-zoom-on-hover": "^1.0.2",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-router": "^4.2.0",
+    "@vue/cli-plugin-vuex": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "sass": "^1.25.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
