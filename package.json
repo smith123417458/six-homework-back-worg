@@ -14,7 +14,7 @@
     "gsap": "^3.2.4",
     "hamburgers": "^1.1.3",
     "hover.css": "^2.3.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.1",
     "sweetalert2": "^9.8.2",
     "swiper": "^5.3.1",
