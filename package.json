@@ -11,7 +11,7 @@
     "bootstrap": "^4.4.1",
     "core-js": "^3.6.4",
     "gasp": "0.0.2",
-    "gsap": "^3.2.4",
+    "gsap": "^3.6.0",
     "hamburgers": "^1.1.3",
     "hover.css": "^2.3.2",
     "jquery": "^3.4.1",
